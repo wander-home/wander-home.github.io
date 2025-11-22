@@ -1,1 +1,1 @@
-# wander.github.io
+# wander-home.github.io
